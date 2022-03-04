@@ -1,0 +1,6 @@
+nome_file,n_isole_medio,n_isole_medio_std_della_media,n_elements_isole_medio,n_elements_isole_medio_std_della_media,n_monolayers_medio,n_monolayers_medio_std_della_media,n_elements_monolayers_medio,n_elements_monolayers_medio_std_della_media
+Replica2_8.500matm_300Msteps_SoloOssigeno.pdb,0.00,0.00,3.25,0.22,2.00,0.00,176.51,0.22
+Replica2_8.625matm_300Msteps_SoloOssigeno.pdb,0.00,0.00,0.00,0.00,2.00,0.00,186.73,0.18
+Replica2_8.750matm_300Msteps_SoloOssigeno.pdb,0.00,0.00,0.00,0.00,2.00,0.00,219.91,0.38
+Replica2_8.875matm_300Msteps_SoloOssigeno.pdb,0.00,0.00,3.00,0.00,2.00,0.00,199.02,0.21
+Replica2_9.000matm_300Msteps_SoloOssigeno.pdb,0.00,0.00,0.00,0.00,2.00,0.00,388.81,0.70
