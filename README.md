@@ -1,5 +1,5 @@
-# ANALISI DEI RISULTATI DI SIMULAZIONI MOLECOLARI DEL PROCESSO DI ADSORBIMENTO DI ACQUA SU MODELLI DI PARTICOLATO ATMOSFERICO
-## Tirocinio curricolare - Laurea in Scienze e Tecnologie Chimiche [L-27]
+# Data Analysis of Molecular Simulation Results of the Water Adsorption Process on Atmospheric Particulate Models.
+## Research Traineeship - BSc in Chemical Science and Technology [L-27] @ UNIMIB
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -8,10 +8,10 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-La mia attività di tirocinio si inseriva in un progetto di ricerca riguardante lo studio, mediante simulazioni computazionali Monte Carlo Gran Canonico, del processo di adsorbimento di acqua su superfici modello di particolato atmosferico di origine marina (NaCl).
-Il mio lavoro ha visto lo sviluppo di uno script in Python (NumPy, pandas, scikit-learn), in grado effettuare una data analysis automatizzata (frame by frame) delle configurazioni (coordinate atomiche delle molecole d'acqua) generate durante ogni simulazione, condotta ad uno specifico valore di pressione di H2O.
-Principalmente lo script esegue una cluster analysis (DBSCAN) delle configurazioni, con lo scopo di studiare i fenomeni di tipo aggregativo che coinvolgono le molecole d’acqua adsorbite sulla superficie, i cluster individuati sono poi classificati in “isole” o “strati” in funzione della dimensione, e sono ne sono state studiate le diverse proprietà.
-I risultati dell'analisi sono rappresentati dallo script sfruttando tabelle e visualizzazioni (Matplotlib, pyplot e seaborn).
+My internship activity was part of a research project concerning the study, by means of Monte Carlo Grand Canon computational simulations, of the adsorption process of water on model surfaces of atmospheric particulate matter of marine origin (NaCl).
+My work involved the development of a script in Python (NumPy, pandas, scikit-learn), capable of performing an automated (frame-by-frame) data analysis of the configurations (atomic coordinates of water molecules) generated during each simulation, conducted at a specific H2O pressure value.
+Mainly, the script performs a cluster analysis (DBSCAN) of the configurations, with the purpose of studying the aggregation-type phenomena involving the water molecules adsorbed on the surface, the identified clusters are then classified into "islands" or "layers" according to their size, and their different properties are studied.
+The results of the analysis are represented by the script by exploiting tables and visualizations (Matplotlib, pyplot and seaborn).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
