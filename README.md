@@ -1,4 +1,4 @@
-# Data Analysis of Molecular Simulation Results of the Water Adsorption Process on Atmospheric Particulate Models.
+# Cluster Analysis of Molecular Simulation Results of the Water Adsorption Process on Atmospheric Particulate Models.
 ## Research Traineeship - BSc in Chemical Science and Technology [L-27] @ UNIMIB
 
 [![Contributors][contributors-shield]][contributors-url]
