@@ -1,7 +1,7 @@
 ### Repository of the paper:
 ## Monte Carlo simulations in the grand canonical ensemble of the water adsorption process on a surface model of NaCl atmospheric particulate
 
-### Research Traineeship - BSc in Chemical Science and Technology [L-27] @ UNIMIB
+### Research Traineeship - BSc in Chemical Science and Technology [L-27] @ UNIMIB:
 ## Cluster Analysis of Molecular Simulation Results of the Water Adsorption Process on Atmospheric Particulate Models.
 
 
