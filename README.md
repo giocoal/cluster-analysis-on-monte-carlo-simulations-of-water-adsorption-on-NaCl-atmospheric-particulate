@@ -1,8 +1,9 @@
-### Repository of the paper:
-## Monte Carlo simulations in the grand canonical ensemble of the water adsorption process on a surface model of NaCl atmospheric particulate
+### Code for the Paper:
+## *"Theoretical Investigation of Inorganic Particulate Matter: The Case of Water Adsorption on a NaCl Particle Model Studied Using Grand Canonical Monte Carlo Simulations"*
 
-### Research Traineeship - BSc in Chemical Science and Technology [L-27] @ UNIMIB:
-## Cluster Analysis of Molecular Simulation Results of the Water Adsorption Process on Atmospheric Particulate Models.
+### and the Bachelor's Thesis:
+## *"Cluster Analysis on the Results of Molecular Simulation of the Water Adsorption Process on Atmospheric Particulate Models."*
+### Research Traineeship - BSc in Chemical Science and Technology [L-27] - University of Milano-Bicocca.
 
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -11,6 +12,9 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Paper][pdf-shield]][linkedin-url]
+[![Paper][pdf-shield1]][linkedin-url]
+[![Thesis][linkedin-shield]][linkedin-url]
 
 My internship activity was part of a research project concerning the study, by means of Monte Carlo Grand Canon computational simulations, of the adsorption process of water on model surfaces of atmospheric particulate matter of marine origin (NaCl).
 My work involved the development of a script in Python (NumPy, pandas, scikit-learn), capable of performing an automated (frame-by-frame) data analysis of the configurations (atomic coordinates of water molecules) generated during each simulation, conducted at a specific H2O pressure value.
@@ -31,6 +35,10 @@ The results of the analysis are represented by the script by exploiting tables a
 [license-url]: https://github.com/giocoal/Cluster_analysis_Visualization_Computational_Chemistry/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/giorgio-carbone-63154219b/
+[thesis-shield]: https://img.shields.io/badge/Read%20Thesis%20-grey?style=for-the-badge
+[thesis-url]: https://www.linkedin.com/in/giorgio-carbone-63154219b/
+[paper-shield]: https://img.shields.io/badge/Read%20Paper%20-grey?style=for-the-badge
+[paper-url]: https://www.linkedin.com/in/giorgio-carbone-63154219b/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
