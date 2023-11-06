@@ -29,7 +29,7 @@
 This is the code for the cluster and data analysis of the paper "[Theoretical Investigation of Inorganic Particulate Matter: The Case of Water Adsorption on a NaCl Particle Model Studied Using Grand Canonical Monte Carlo Simulations](https://www.mdpi.com/2304-6740/11/11/421)" ([F. Rizza](https://scholar.google.com/citations?user=yJfbN8AAAAAJ&hl=en&oi=sra), [A. Rovaletti](https://scholar.google.com/citations?user=F4g_VMYAAAAJ&hl=en&oi=sra), G. Carbone, T. Miyake, [C. Greco](https://scholar.google.com/citations?user=C9pWqXAAAAAJ&hl=en&oi=sra), U. Cosentino), published on the international, peer-reviews and open access [Inorganics](https://www.mdpi.com/journal/inorganics/about) journal by [MDPI](https://www.mdpi.com/), and my Bachelor's Thesis: "[Cluster Analysis on the Results of Molecular Simulation of the Water Adsorption Process on Atmospheric Particulate Models.](https://github.com/giocoal/cluster-analysis-on-computational-chemistry-simulations-water-adsorption-on-atmosperic-particulate/blob/main/thesis%20manuscript%20and%20presentation%20slides/Thesis.pdf)"
 
 <p align="center">
-<img src="images/ComputationalChemistry.jpg" width="100%" />
+<img src="images/ComputationalChemistry1.png" width="100%" />
 
 </p>
 
